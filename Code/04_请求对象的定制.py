@@ -5,7 +5,7 @@ url = 'https://www.baidu.com'
 
 
 # url 的组成 1.协议(http:80/https:443)  
-#  2.主机(域名)   3.端口号mysql3306,oracle 1521,mongodb 27017 #4.路径 5.参数 6.锚点
+#  2.主机(域名)   3.     端口号mysql3306,oracle 1521,mongodb 27017 #4.路径 5.参数 6.锚点
 # https/http   www.baidu.com /             s?        wd=周杰伦
 #    协议      主机            :80端口号    s路径        wd参数
 
